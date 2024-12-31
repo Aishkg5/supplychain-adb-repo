@@ -1,5 +1,5 @@
 # Databricks notebook source
-bronze_path = 'abfss://bronze@supplychainadlsacc.dfs.core.windows.net/bronze/'
+bronze_path = 'abfss://bronze@supplychainadlsacc.dfs.core.windows.net/'
 
 # COMMAND ----------
 
